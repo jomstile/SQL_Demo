@@ -20,14 +20,14 @@ The primary goal is to use SQL joins and aggregations to identify longitudinal t
 The analysis relies on two major, globally-respected datasets. All data is cleaned, harmonized (by country code and year), and imported into the relational database.
 | Dataset | Description | Source | Key Variables Used |
 |---|----|----|----|
-| UCDP Armed Conflict Data | Records of state-based, non-state, and one-sided conflicts, including battle-related deaths by year and country. | UCDP Dataset Download Center | Country, Year, Total Deaths |
+| UCDP Battle Related Deaths Data | Records of state-based, non-state, and one-sided conflicts, including battle-related deaths by year and country. | UCDP Dataset Download Center | Country, Year, Total Deaths |
 | WHO Suicide Rates | Age-standardized suicide mortality rates per 100,000 population, disaggregated by country and year. | WHO Mortality Database (Global Health Estimates) | Country, Year, ASR Suicide Rate |
 
 ## 💾 Database Schema
 
 The core of the project involves two main tables, linked by country code and year, which facilitates direct comparative querying.
 
-#### conflicts Table
+#### Battle Deaths Table
 
 This table stores annualized conflict data derived from UCDP datasets (like UCDP/PRIO Armed Conflict Dataset or GED).
 
