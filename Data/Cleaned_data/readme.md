@@ -1,1 +1,1 @@
-
+Highly reccomened to use cleaned data, the WHO does not utilized GWno codes, nor an offical registry of country names as a basis in their reporting lines. It is a painstaking task to create a key to group them, and then to identify regional outcomes with GWno regions. All of which are the UCDP reccomendations on grouping.
