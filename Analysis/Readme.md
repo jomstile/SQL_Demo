@@ -1,6 +1,6 @@
 # Analysis
 
-### The first question we'll tackle is looking at the numbers of observations of a level of conflict and the average suicide rates corresponding to those
+### The first question that is addressed is looking at the numbers of observations of a level of conflict and the average suicide rates corresponding to those:
 |Conflict_Intensity|Total_Observations|Average_Suicide_Rate|
 |-|-|-|
 |High Conflict(>=100 Deaths|40|17.20|
@@ -10,7 +10,7 @@
 
 #### Countries with years catagorized as high conflict showed an average suicide rate that is more than twice as high than those compared to those in the Low/No Conflict category
 
-### Next is the question of which 5 countries experienced the highest rate of suicides dper year while experiencing armed conflict:
+### Next is the question of which 5 countries experienced the highest rate of suicides per year while experiencing armed conflict:
 
 |country_name|year|total_annual_deaths|crude_suicide_rate|
 |-|-|-|-|
@@ -36,7 +36,7 @@
 This scatter plot visualizes the relationship between the magnitude of armed conflict deaths and the crude suicide rate in a given country per year. This chart suggests a positive correlation (r=0.69) between the number of annual battle-related deaths and the crude suicide rate, which indicates that the years that countries experience high levels of violent conflict tend to have higher overall suicide rates.
 
 
-### The question whether the type of conflict (who is fighting whom) makes a difference in the population's suicide rate. The analysis below is based on the querys.
+### The question whether the type of conflict (who is fighting whom) makes a difference in the population's suicide rate. The analysis below is based on the queries prior listed:
 
 The table and bargraph below shows the average suicide rate calculated across all country-years for four different conflict categories:
 
