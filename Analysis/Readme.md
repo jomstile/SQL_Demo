@@ -1,5 +1,35 @@
 # Analysis
 
+### The first question we'll tackle is looking at the numbers of observations of a level of conflict and the average suicide rates corresponding to those
+|Conflict_Intensity|Total_Observations|Average_Suicide_Rate|
+|-|-|-|
+|High Conflict(>=100 Deaths|40|17.20|
+|Low/No Conflict(<=100 Deaths|60|7.28|
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f53cc599-bd2b-4f3a-a977-62a11df528f4" />
+
+
+#### Countries with years catagorized as high conflict showed an average suicide rate that is more than twice as high than those compared to those in the Low/No Conflict category
+
+### Next is the question of which 5 countries experienced the highest rate of suicides dper year while experiencing armed conflict:
+
+|country_name|year|total_annual_deaths|crude_suicide_rate|
+|-|-|-|-|
+|Syria|2015|4991|24.52|
+|Afghanistan|2017|4801|23.95|
+|Syria|2014|4030|23.86|
+|Afghanistan|2019|4711|23.70|
+|Syria|2010|4300|23.10|
+
+
+
+
+
+
+
+
+
+
+
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d8333844-1c99-4e2f-9112-6b41f6dbc2f7" />
 
 ### Infographic 1: Annual Battle-Related Deaths vs. Crude Suicide Rate
